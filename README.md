@@ -1,8 +1,24 @@
-# React + Vite
+# BRAINWAVE Webpage 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Brainwave Poster](./src/assets/poster.png)
 
-Currently, two official plugins are available:
+Welcome to **Brainwave**—a sleek and fully mobile-responsive webpage crafted with **React** and **Tailwind CSS**. This project boasts an amazing UI that’s optimized for all devices, offering a smooth and intuitive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
+
+- 📱 **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
+- 🎨 **Modern UI:** Clean and stylish interface designed with user experience in mind.
+- ⚡ **Built with React & Tailwind CSS:** Leveraging powerful tools for fast and efficient development.
+
+## Preview 👀
+
+Check out the live demo [here](https://brainwave-nb.netlify.app/).
+
+## Installation
+
+Clone the repo and install dependencies:
+
+## Technologies Used
+
+- **React**
+- **Tailwind CSS**
